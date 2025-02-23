@@ -11,12 +11,12 @@
     --green-9: #c1c533;
     --purple: #ab8fcc;
     --dark-gray: #2b2c22;
-    --background-ha: url(https://cciglesiasmartinez.github.io/LLMM-Actividad2/img/tabla_periodica/hankschrader.png);
+    --background-ha: url(https://Jesuu805.github.io/JMA_ACTIVIDAD-WEB-CORPORATIVA-HTML-Y-CSS/img/tabla_periodica/hankschrader.png);
 }
 
 @font-face {
     font-family: BreakingBad;
-    src: url(https://cciglesiasmartinez.github.io/LLMM-Actividad2/fonts/Breaking\ Bad.ttf);
+    src: url(https://Jesuu805.github.io/JMA_ACTIVIDAD-WEB-CORPORATIVA-HTML-Y-CSS/fonts/Breaking\ Bad.ttf);
     font-weight:500;
 }
 
@@ -28,7 +28,7 @@
 }
 
 .body-background {
-    background-image: url(https://cciglesiasmartinez.github.io/LLMM-Actividad2/img/fondo.jpg);
+    background-image: url(https://Jesuu805.github.io/JMA_ACTIVIDAD-WEB-CORPORATIVA-HTML-Y-CSS/img/fondo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -56,7 +56,7 @@
 
 #logo {
     margin: auto;
-    background-image: url(https://cciglesiasmartinez.github.io/LLMM-Actividad2/img/logo.PNG);
+    background-image: url(https://Jesuu805.github.io/JMA_ACTIVIDAD-WEB-CORPORATIVA-HTML-Y-CSS/img/logo.PNG);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -79,7 +79,7 @@
 
 #poster {
     margin: auto;
-    background-image: url(https://cciglesiasmartinez.github.io/LLMM-Actividad2/img/poster.jpg);
+    background-image: url(https://Jesuu805.github.io/JMA_ACTIVIDAD-WEB-CORPORATIVA-HTML-Y-CSS/img/poster.jpg);
     background-size:cover;
     width: 700px;
     height: 300px;
@@ -156,7 +156,7 @@ legend {
 
 #header-table {
     margin-top: 1rem;
-    background-image: url(https://cciglesiasmartinez.github.io/LLMM-Actividad2/img/cabecera.png);
+    background-image: url(https://Jesuu805.github.io/JMA_ACTIVIDAD-WEB-CORPORATIVA-HTML-Y-CSS/img/cabecera.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
